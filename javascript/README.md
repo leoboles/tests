@@ -27,7 +27,7 @@ https://jsfiddle.net/9pdsu5ey/
 ![Exercicio 4](./exercicio4.PNG)
 
 ### Exercício 5:
-https://jsfiddle.net/jvLgm72d/
+https://jsfiddle.net/nseb3cty/
 #### Resultado esperado
 ![Exercicio 5](./exercicio5.PNG)
 
