@@ -1,6 +1,6 @@
 # Teste para desenvolvedores JAVASCRIPT
 ## Instruções
-O teste a seguir é composto de 5 exercícios que iram verificar o nível de proficiênia am JAVASCRIPT, JQUERY, CSS e HTML
+O teste a seguir é composto de 5 exercícios que irão verificar o nível de proficiênia am JAVASCRIPT, JQUERY, CSS e HTML
 
 Para cada um dos exercícios, você deverá clicar no link abaixo, e alterar o código conforme pedido o exercício.
 
