@@ -26,7 +26,7 @@ https://jsfiddle.net/9pdsu5ey/
 #### Resultado esperado
 ![Exercicio 4](./exercicio4.PNG)
 
-### exercício 5:
+### Exercício 5:
 https://jsfiddle.net/jvLgm72d/
 #### Resultado esperado
 ![Exercicio 5](./exercicio5.PNG)
