@@ -19,15 +19,15 @@ https://jsfiddle.net/c92wq5aj/
 ### Exercício 3:
 https://jsfiddle.net/aynksu03/
 #### Resultado esperado
-![Exercicio 3](./Exercicio3.PNG)
+![exercicio 3](./Exercicio3.PNG)
 
 ### Exercicio 4:
 https://jsfiddle.net/9pdsu5ey/
 #### Resultado esperado
-![Exercicio 4](./Exercicio4.PNG)
+![exercicio 4](./Exercicio4.PNG)
 
 ### exercício 5:
 https://jsfiddle.net/jvLgm72d/
 #### Resultado esperado
-![Exercicio 5](./Exercicio5.PNG)
+![exercicio 5](./Exercicio5.PNG)
 
